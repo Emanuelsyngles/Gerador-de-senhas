@@ -1,8 +1,8 @@
-*{
-     margin: 0 auto;
-     width: 100%;
-     font-family: Arial, Helvetica, sans-serif;
-     box-sizing: border-box;
+* {
+    margin: 0 auto;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
 }
 
 body {
@@ -48,7 +48,6 @@ body {
 
 .button-cta:hover {
     background-color: rgb(66, 197, 66)
-    
 }
 
 .container-password {
