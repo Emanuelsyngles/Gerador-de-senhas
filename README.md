@@ -3,7 +3,7 @@
 
 
 ## Informações
- Esse é um gerador de senhas limitado a 25 caracteres.
+ Esse é um gerador de senhas limitado a 25 caracteres, sendo o menor limite 4 caracteres.
 
  ## Como funciona?
  O usuário escolhe a quantidade de caracteres que ele deseja gerar, e após isso ele clica em gerar senha e sua senha será gerada abaixo.
@@ -12,15 +12,12 @@
 Acesse por aqui: [projeto](https://geradordesenhasemanuel.netlify.app/)
 
  ## Ferramentas 🔧
-- [ReactJS](https://react.dev/)
-  
- ## Desenvolvedor
-
- - Desenvolvido por Emanuel syngles.
-)
-
- ## Ferramentas 🔧
 - HTML5
 - CSS3
 - JAVASCRIPT
+  
+ ## Desenvolvedor
+- Desenvolvido por Emanuel syngles.
+
+
   
